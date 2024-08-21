@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 <!--
 **bruno120805/bruno120805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
